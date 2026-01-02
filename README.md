@@ -77,7 +77,7 @@ ShuDormPowerApiWrapper/
 ## 参考文档
 
 - [电费查询元数据](./docs/dorm-metadata.md) - API 参数结构说明
-- [ShuIDCard-LoginInfo](./ShuIDCard-LoginInfo/README.md) - 原始逆向分析
+- [ShuIDCard-LoginInfo](https://github.com/KirisameLonnet/ShuIDCard-LoginInfo) - 原始逆向分析
 
 ## 免责声明
 
